@@ -10,4 +10,4 @@ check-out. These services include valet parking for vehicles, room cleaning, and
 - **Hotel App**: The client class that uses the `FrontDesk` facade to access and utilize hotel services seamlessly.
 
 ## UML Diagram
-(To be uploaded)
+![Facade Pattern](https://github.com/karlamaemori/facadePattern/blob/main/facadePattern/Facade%20Pattern%20UML.png)
